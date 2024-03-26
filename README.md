@@ -1,4 +1,25 @@
-# Awesome Akash <!-- omit in toc -->
+# Awesome Akash
+
+Here's a description of Awesome Akash and what we want to include in this document.
+
+## Contents
+
+- [Akash Network](#akash-network)
+- [Templates](#templates)
+  - [Official](#official)
+
+## Akash Network
+
+Here's some information about Akash Network. This will include information on SIGs/WGs, how to get involved, how to get in touch, and more.
+
+## Templates
+
+### Official
+
+- [Lunie Wallet for Cosmos SDK](templates/lunie-lite) - Lunie Wallet template for Cosmos SDK.
+- [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash) - Cosmos SDK Node.
+
+<!--
 
 Awesome Akash is a curated list of awesome resources people can use to familiarize themselves with [Akash](https://akash.network) and includes examples of several applications they can deploy on the platform. Please submit a pull request if you know any resources that might be helpful to other developers.
 
@@ -7,7 +28,7 @@ Instructions on how to deploy the SDL files in this repository can be found [her
 Join our [Discord](https://discord.akash.network) if you have questions or concerns. Our team is always eager to hear from you.
 Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop with updates and announcements.
 
-## Table of Contents <!-- omit in toc -->
+## Table of Contents
 
 - [Official](#official)
 - [AI - CPU](#ai---cpu)
@@ -338,3 +359,5 @@ Awesome DeFi apps you can deploy on Akash
 ### Web Frameworks
 
 - [NextJS](templates/nextjs)
+
+-->

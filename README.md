@@ -1,6 +1,6 @@
 # Awesome Akash [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is an awesome source of resources, ready-to-deploy templates, and other information that can help you get started on Akash. To add to this list or to suggest modifications, please look at our [contribution guide]().
+This is an awesome source of resources, ready-to-deploy templates, and other information that can help you get started on Akash. To add to this list or to suggest modifications, please look at our [contribution guide](./contributing.md).
 
 Akash is a digital marketplace where users can rent computing resources to host services. It runs on a decentralized P2P network and functions using the Akash token and is developed and run by the community.
 

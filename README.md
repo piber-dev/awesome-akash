@@ -34,7 +34,8 @@ Here's some information about Akash Network. This will include information on SI
 
 ### Official
 
-- [Lunie Wallet for Cosmos SDK](templates/lunie-lite) - Lunie Wallet template for Cosmos SDK.
+<!-- test whether or not ./ makes it a valid link in linter-->
+- [Lunie Wallet for Cosmos SDK](./templates/lunie-lite) - Lunie Wallet template for Cosmos SDK.
 - [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash) - Cosmos SDK Node.
 
 <!--

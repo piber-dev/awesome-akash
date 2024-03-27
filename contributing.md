@@ -2,7 +2,7 @@
 
 If you have an awesome template or resource that you want to share with other people on this list, you are welcome to propose changes to the list.
 
-Note: for all PRs, please either run `[awesome-lint](https://github.com/sindresorhus/awesome-lint)` before submitting a PR or work closely with the automatic lint logs given on PRs to ensure proper formatting if you're not sure.
+Note: for all PRs, please either run [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) before submitting a PR or work closely with the automatic lint logs given on PRs to ensure proper formatting if you're not sure.
 
 ## Adding a template
 

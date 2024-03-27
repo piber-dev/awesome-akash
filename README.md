@@ -1,18 +1,34 @@
 # Awesome Akash [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome Akash is an awesome source of resources, ready-to-deploy templates, and other information that can help you get started on Akash. To add to this list or to suggest modifications, please look at our [contribution guide]().
+This is an awesome source of resources, ready-to-deploy templates, and other information that can help you get started on Akash. To add to this list or to suggest modifications, please look at our [contribution guide]().
 
 Akash is a digital marketplace where users can rent computing resources to host services. It runs on a decentralized P2P network and functions using the Akash token and is developed and run by the community.
 
 ## Contents
 
 - [Akash Network](#akash-network)
+- [Social Media](#social-media)
 - [Templates](#templates)
   - [Official](#official)
 
 ## Akash Network
 
+- [Akash Network](https://akash.network) - Learn more of the Akash Network on the official website.
+- [AKT Token](https://akash.network/token/) - Learn more of the AKT token and its tokenomics that keeps the network alive.
+- [Development Contributions](https://akash.network/development/welcome/) - Learn how to get involved in the development of the network through different community groups.
+- [Development Bounties](https://akash.network/development/bounties/) - See what incentivized bounties are available right now.
+- [Funding Programs](https://akash.network/development/funding-program/) - Learn about the current ways on requesting funding for a project.
+
+<!--
 Here's some information about Akash Network. This will include information on SIGs/WGs, how to get involved, how to get in touch, and more.
+-->
+
+## Social Media
+
+- [Discord](https://discord.com/invite/akash) - The official Discord server for technical support, technical conversation, and other conversation related to the development of the network.
+- [Twitter (X)](https://twitter.com/akashnet_) - The official Twitter (X) account for community news, milestones, and more relevant information of Akash.
+- [Telegram (Official)](https://t.me/AkashNW) - The official Telegram server where serious conversation of the development of the network is encouraged.
+- [Telegram (Akashians Price Staking)](https://t.me/akashianspricingstaking ) - An unofficial Telegram server where price discussion is encouraged.
 
 ## Templates
 

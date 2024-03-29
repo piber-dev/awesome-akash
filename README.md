@@ -43,17 +43,18 @@ Akash is a digital marketplace where users can rent computing resources to host 
 
 ## Akash Network
 
+Here you can see some resources linked related to Akash, in how to e.g. get started reading about it, or how to get involved as a developer.
+
 - [Akash Network](https://akash.network) - Learn more of the Akash Network on the official website.
 - [AKT Token](https://akash.network/token/) - Learn more of the AKT token and its tokenomics that keeps the network alive.
+- [Akash Documentation](https://akash.network/docs/) - Dig deeper in the network in the official documentation.
 - [Development Contributions](https://akash.network/development/welcome/) - Learn how to get involved in the development of the network through different community groups.
 - [Development Bounties](https://akash.network/development/bounties/) - See what incentivized bounties are available right now.
 - [Funding Programs](https://akash.network/development/funding-program/) - Learn about the current ways on requesting funding for a project.
 
-<!--
-Here's some information about Akash Network. This will include information on SIGs/WGs, how to get involved, how to get in touch, and more.
--->
-
 ## Social Media
+
+Here you can see the official and unofficial major social media channels of Akash.
 
 - [Discord](https://discord.com/invite/akash) - The official Discord server for technical support, technical conversation, and other conversation related to the development of the network.
 - [Twitter (X)](https://twitter.com/akashnet_) - The official Twitter (X) account for community news, milestones, and more relevant information of Akash.
@@ -61,6 +62,14 @@ Here's some information about Akash Network. This will include information on SI
 - [Telegram (Akashians Price Staking)](https://t.me/akashianspricingstaking ) - An unofficial Telegram server where price discussion is encouraged.
 
 ## Templates
+
+Templates on Akash refer to complete [SDL](https://akash.network/docs/getting-started/stack-definition-language/) files that you can deploy on Akash.
+
+For information on how to deploy these templates, see [this](https://akash.network/docs/deployments/overview/) page in the documentation.
+
+For information on how to share your own SDL, see [this](./contributing.md) page on how to add your SDL to this list.
+
+Note that SDL files are private by default, but some templates make sense to share for others users to use. In this case, some people choose to share their templates here.
 
 ### Official
 

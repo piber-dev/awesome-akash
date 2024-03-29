@@ -10,6 +10,7 @@ Akash is a digital marketplace where users can rent computing resources to host 
 - [Social Media](#social-media)
 - [Templates](#templates)
   - [Official](#official)
+  - [Archived](#archived)
 
 ## Akash Network
 
@@ -37,6 +38,10 @@ Here's some information about Akash Network. This will include information on SI
 <!-- test whether or not ./ makes it a valid link in linter-->
 - [Lunie Wallet for Cosmos SDK](./templates/lunie-lite) - Lunie Wallet template for Cosmos SDK.
 - [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash) - Cosmos SDK Node.
+
+### Archived
+
+See [this](./archive/archive.md) page for more templates and resources.
 
 <!--
 

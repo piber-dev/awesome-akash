@@ -73,301 +73,299 @@ Note that SDL files are private by default, but some templates make sense to sha
 
 ### Official
 
-- [Lunie Wallet for Cosmos SDK](./templates/lunie-lite)
-- [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash)
+- [Lunie Wallet for Cosmos SDK](./templates/lunie-lite) - Lunie Wallet for Cosmos SDK.
+- [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash) - Cosmos SDK Node.
 
 ### AI - CPU
 
-- [Alpaca.cpp](./templates/alpaca-cpp)
-- [Auto-GPT](./templates/auto-gpt)
-- [BabyAGI](./templates/babyagi)
-- [BabyAGI-UI](./templates/babyagi-ui)
-- [ChatChat](./templates/chatchat)
-- [ChatGPT Self-Hosted Chat](./templates/ai-chat-app)
-- [Daila](./templates/daila)
-- [Flowise](./templates/flowise)
-- [GPT4ALL](./templates/gpt4all)
-- [Serge](./templates/serge-cpu)
-- [Stable Diffusion](./templates/stable-diffusion-ui)
-- [Terminal GPT](./templates/tgpt)
+- [Alpaca.cpp](./templates/alpaca-cpp) - Alpaca.cpp.
+- [Auto-GPT](./templates/auto-gpt) - Auto-GPT.
+- [BabyAGI](./templates/babyagi) - BabyAGI.
+- [BabyAGI-UI](./templates/babyagi-ui) - BabyAGI-UI.
+- [ChatChat](./templates/chatchat) - ChatChat.
+- [ChatGPT Self-Hosted Chat](./templates/ai-chat-app) - ChatGPT Self-Hosted Chat.
+- [Daila](./templates/daila) - Daila.
+- [Flowise](./templates/flowise) - Flowise.
+- [GPT4ALL](./templates/gpt4all) - GPT4ALL.
+- [Serge](./templates/serge-cpu) - Serge.
+- [Stable Diffusion](./templates/stable-diffusion-ui) - Stable Diffusion.
+- [Terminal GPT](./templates/tgpt) - Terminal GPT.
 
 ### AI - GPU
 
-- [AI-Image-App](./templates/AI-Image-App)
-- [AUTOMATIC1111](./templates/AUTOMATIC1111)
-- [BERT](./templates/bert)
-- [BERT Sentiment Analysis](./templates/bert-sentiment-analysis)
-- [ChatGLM-6B](./templates/ChatGLM-6B)
-- [ChatGPT Self-Hosted Chat](./templates/ai-chat-app)
-- [ComfyUI](./templates/comfyui)
-- [Dolly-v2-12b](./templates/dolly-v2-12b)
-- [Falcon-7B](./templates/Falcon-7B)
-- [FastChat](./templates/FastChat)
-- [Flan-T5 XXL](./templates/flan-t5-xxl)
-- [GPT-Neo](./templates/gpt-neo)
-- [Llama-2-70B](./templates/Llama-2-70B)
-- [RedPajama-INCITE-7B-Instruct](./templates/redpajama-incite-7b-instruct)
-- [Semantra](./templates/semantra)
-- [Serge](./templates/serge-gpu)
-- [Stable Diffusion](./templates/stable-diffusion-ui)
-- [Stable Diffusion Webui](./templates/stable-diffusion-webui)
-- [StableStudio](./templates/StableStudio)
-- [Text generation WebUi](./templates/text-generation-webui)
-- [TTS](./templates/TTS)
-- [XLM-roBERTa](./templates/XLM-roBERTa)
-- [Open GPT](./templates/open-gpt)
+- [AI-Image-App](./templates/AI-Image-App) - AI-Image-App.
+- [AUTOMATIC1111](./templates/AUTOMATIC1111) - AUTOMATIC1111.
+- [BERT](./templates/bert) - BERT.
+- [BERT Sentiment Analysis](./templates/bert-sentiment-analysis) - BERT Sentiment Analysis.
+- [ChatGLM-6B](./templates/ChatGLM-6B) - ChatGLM-6B.
+- [ChatGPT Self-Hosted Chat](./templates/ai-chat-app) - ChatGPT Self-Hosted Chat.
+- [ComfyUI](./templates/comfyui) - ComfyUI.
+- [Dolly-v2-12b](./templates/dolly-v2-12b) - Dolly-v2-12b.
+- [Falcon-7B](./templates/Falcon-7B) - Falcon-7B.
+- [FastChat](./templates/FastChat) - FastChat.
+- [Flan-T5 XXL](./templates/flan-t5-xxl) - Flan-T5 XXL.
+- [GPT-Neo](./templates/gpt-neo) - GPT-Neo.
+- [Llama-2-70B](./templates/Llama-2-70B) - Llama-2-70B.
+- [RedPajama-INCITE-7B-Instruct](./templates/redpajama-incite-7b-instruct) - RedPajama-INCITE-7B-Instruct.
+- [Semantra](./templates/semantra) - Semantra.
+- [Serge](./templates/serge-gpu) - Serge.
+- [Stable Diffusion](./templates/stable-diffusion-ui) - Stable Diffusion.
+- [Stable Diffusion Webui](./templates/stable-diffusion-webui) - Stable Diffusion Webui.
+- [StableStudio](./templates/StableStudio) - StableStudio.
+- [Text generation WebUi](./templates/text-generation-webui) - Text generation WebUi.
+- [TTS](./templates/TTS) - TTS.
+- [XLM-roBERTa](./templates/XLM-roBERTa) - XLM-roBERTa.
+- [Open GPT](./templates/open-gpt) - Open GPT.
 
 ### Blogging
 
-- [SteemCN](./templates/steemcn)
-- [Ghost](./templates/ghost)
-- [Grav](./templates/Grav)
-- [Wordpress](./templates/wordpress)
-- [Confluence](./templates/confluence)
-- [Drupal](./templates/drupal)
-- [Wiki.js](./templates/wikijs)
-- [Nitropage](./templates/nitropage)
+- [SteemCN](./templates/steemcn) - SteemCN.
+- [Ghost](./templates/ghost) - Ghost.
+- [Grav](./templates/Grav) - Grav.
+- [Wordpress](./templates/wordpress) - Wordpress.
+- [Confluence](./templates/confluence) - Confluence.
+- [Drupal](./templates/drupal) - Drupal.
+- [Wiki.js](./templates/wikijs) - Wiki.js.
+- [Nitropage](./templates/nitropage) - Nitropage.
 
 ### Built with Cosmos-SDK
 
-- [Dharani](./templates/Dharani)
-- [Big Dipper](./templates/big-dipper)
+- [Dharani](./templates/Dharani) - Dharani.
+- [Big Dipper](./templates/big-dipper) - Big Dipper.
 
 ### Chat
 
-- [Mattermost](./templates/mattermost)
+- [Mattermost](./templates/mattermost) - Mattermost.
 
 ### Machine Learning
 
-- [Ray Cluster](./templates/ray)
-- [Jupyter Notebook](./templates/jupyter)
-- [Jupyter Notebook with ezkl](./templates/tensorflow-jupyter-ezkl)
-- [Jupyter Notebook with Python Kernel](./templates/tensorflow-jupyter-mnist)
-- [TensorFlow Serving MNIST CNN Model](./templates/tensorflow-serving-mnist)
-- [Handwritten Digits Recognition Application](./templates/tensorflow-webapp-mnist)
-- [Doccano](./templates/doccano)
+- [Ray Cluster](./templates/ray) - Ray Cluster.
+- [Jupyter Notebook](./templates/jupyter) - Jupyter Notebook.
+- [Jupyter Notebook with ezkl](./templates/tensorflow-jupyter-ezkl) - Jupyter Notebook with ezkl.
+- [Jupyter Notebook with Python Kernel](./templates/tensorflow-jupyter-mnist) - Jupyter Notebook with Python Kernel.
+- [TensorFlow Serving MNIST CNN Model](./templates/tensorflow-serving-mnist) - TensorFlow Serving MNIST CNN Model.
+- [Handwritten Digits Recognition Application](./templates/tensorflow-webapp-mnist) - Handwritten Digits Recognition Application.
+- [Doccano](./templates/doccano) - Doccano.
 
 ### CI/CD, DevOps
 
-- [Jenkins](./templates/jenkins)
-- [Bitbucket](./templates/bitbucket)
-- [Azure Devops Agent](./templates/azure-devops-agent)
-- [Github Runner](./templates/ghrunner)
+- [Jenkins](./templates/jenkins) - Jenkins.
+- [Bitbucket](./templates/bitbucket) - Bitbucket.
+- [Azure Devops Agent](./templates/azure-devops-agent) - Azure Devops Agent.
+- [Github Runner](./templates/ghrunner) - Github Runner.
 
 ### Data Visualization
 
--  [Redash Data Charts for Akash Analytics](./templates/Redash)
--  [UFO Sightings](./templates/ufo-data-vis)
+-  [Redash Data Charts for Akash Analytics](./templates/Redash) -  Redash Data Charts for Akash Analytics.
+-  [UFO Sightings](./templates/ufo-data-vis) -  UFO Sightings.
 
 ### Databases and Administration
 
-- [json-server](./templates/json-server)
-- [pgAdmin](./templates/pgadmin4)
-- [mongoDB](./templates/mongoDB)
-- [postgresSQL](./templates/postgres)
-- [adminer](./templates/adminer)
-- [MySQL](./templates/MySQL)
-- [CouchDB](./templates/couchdb)
-- [InfluxDB](./templates/influxdb)
-- [SurrealDB](./templates/SurrealDB)
-- [DefraDB](./templates/defradb)
+- [json-server](./templates/json-server) - json-server.
+- [pgAdmin](./templates/pgadmin4) - pgAdmin.
+- [mongoDB](./templates/mongoDB) - mongoDB.
+- [postgresSQL](./templates/postgres) - postgresSQL.
+- [adminer](./templates/adminer) - adminer.
+- [MySQL](./templates/MySQL) - MySQL.
+- [CouchDB](./templates/couchdb) - CouchDB.
+- [InfluxDB](./templates/influxdb) - InfluxDB.
+- [SurrealDB](./templates/SurrealDB) - SurrealDB.
+- [DefraDB](./templates/defradb) - DefraDB.
 
 ### DeFi
 
-Awesome DeFi apps you can deploy on Akash
-
-- [Serum DEX UI](./templates/serum)
-- [Uniswap](./templates/uniswap)
-- [dFed](./templates/dfed)
-- [Pancake Swap](./templates/pancake-swap)
-- [Augur](./templates/augur)
-- [Bancor](./templates/bancor)
-- [Balancer](./templates/balancer)
-- [Luaswap](./templates/luaswap)
-- [SushiSwap](./templates/sushiswap)
-- [Uma Protocol](./templates/uma-protocol)
-- [Yearn.finance](./templates/Yearn.finance)
-- [ThorChain BEPSwap](./templates/Thorchain-BEPSwap)
-- [Curve](./templates/curve)
-- [Synthetix.Exchange](./templates/synthetix.exchange)
-- [Ren Protocol](./templates/renprotocol)
-- [yfii](./templates/yfii)
-- [Sifchain DEX](./templates/sifchain-ui)
-- [Osmosis DEX](./templates/osmosis-fe)
+Awesome DeFi apps you can deploy on Akash Awesome DeFi apps you can deploy on Akash.
+- [Serum DEX UI](./templates/serum) - Serum DEX UI.
+- [Uniswap](./templates/uniswap) - Uniswap.
+- [dFed](./templates/dfed) - dFed.
+- [Pancake Swap](./templates/pancake-swap) - Pancake Swap.
+- [Augur](./templates/augur) - Augur.
+- [Bancor](./templates/bancor) - Bancor.
+- [Balancer](./templates/balancer) - Balancer.
+- [Luaswap](./templates/luaswap) - Luaswap.
+- [SushiSwap](./templates/sushiswap) - SushiSwap.
+- [Uma Protocol](./templates/uma-protocol) - Uma Protocol.
+- [Yearn.finance](./templates/Yearn.finance) - Yearn.finance.
+- [ThorChain BEPSwap](./templates/Thorchain-BEPSwap) - ThorChain BEPSwap.
+- [Curve](./templates/curve) - Curve.
+- [Synthetix.Exchange](./templates/synthetix.exchange) - Synthetix.Exchange.
+- [Ren Protocol](./templates/renprotocol) - Ren Protocol.
+- [yfii](./templates/yfii) - yfii.
+- [Sifchain DEX](./templates/sifchain-ui) - Sifchain DEX.
+- [Osmosis DEX](./templates/osmosis-fe) - Osmosis DEX.
 
 ### Benchmarking
 
-- [Fast.com by Netflix](./templates/fast)
-- [Flexible IO Tester](./templates/fio)
-- [Geekbench 5](./templates/geekbench)
-- [LibreSpeed](./templates/librespeed)
-- [MonkeyTest](./templates/monkeytest)
-- [OpenSpeedTest](./templates/openspeedtest)
-- [Phoronix](./templates/phoronix)
-- [Serverbench](./templates/serverbench)
-- [Speedtest by Ookla](./templates/speedtest-cli)
-- [Speedtest Tracker](./templates/speedtest-tracker)
+- [Fast.com by Netflix](./templates/fast) - Fast.com by Netflix.
+- [Flexible IO Tester](./templates/fio) - Flexible IO Tester.
+- [Geekbench 5](./templates/geekbench) - Geekbench 5.
+- [LibreSpeed](./templates/librespeed) - LibreSpeed.
+- [MonkeyTest](./templates/monkeytest) - MonkeyTest.
+- [OpenSpeedTest](./templates/openspeedtest) - OpenSpeedTest.
+- [Phoronix](./templates/phoronix) - Phoronix.
+- [Serverbench](./templates/serverbench) - Serverbench.
+- [Speedtest by Ookla](./templates/speedtest-cli) - Speedtest by Ookla.
+- [Speedtest Tracker](./templates/speedtest-tracker) - Speedtest Tracker.
 
 ### Blockchain
 
-- [Bitcoin](./templates/bitcoin)
-- [Prysm Beacon](./templates/prysm-beacon)
-- [Substrate Node](./templates/substrate-node)
-- [Near Node](./templates/near)
-- [Vidulum](./templates/vidulum)
-- [Ethereum 2.0](./templates/Ethereum_2.0)
-- [POKT Network](./templates/pokt-network)
-- [Polkadot](./templates/polkadot)
-- [Kadena](./templates/Kadena)
-- [Bitcoin Cash Node](./templates/bitcoincashnode)
-- [Handshake](./templates/handshake)
-- [Fuse Network Node](./templates/fuse-network-node)
-- [Injective](./templates/injective)
-- [Starknet Node by Juno](./templates/juno)
+- [Bitcoin](./templates/bitcoin) - Bitcoin.
+- [Prysm Beacon](./templates/prysm-beacon) - Prysm Beacon.
+- [Substrate Node](./templates/substrate-node) - Substrate Node.
+- [Near Node](./templates/near) - Near Node.
+- [Vidulum](./templates/vidulum) - Vidulum.
+- [Ethereum 2.0](./templates/Ethereum_2.0) - Ethereum 2.0.
+- [POKT Network](./templates/pokt-network) - POKT Network.
+- [Polkadot](./templates/polkadot) - Polkadot.
+- [Kadena](./templates/Kadena) - Kadena.
+- [Bitcoin Cash Node](./templates/bitcoincashnode) - Bitcoin Cash Node.
+- [Handshake](./templates/handshake) - Handshake.
+- [Fuse Network Node](./templates/fuse-network-node) - Fuse Network Node.
+- [Injective](./templates/injective) - Injective.
+- [Starknet Node by Juno](./templates/juno) - Starknet Node by Juno.
 
 ### Business
 
-- [Odoo](./templates/odoo)
+- [Odoo](./templates/odoo) - Odoo.
 
 ### Games
 
-- [Minecraft](./templates/minecraft)
-- [Tetris](./templates/tetris)
-- [Pac-Man](./templates/pacman)
-- [Supermario](./templates/supermario)
-- [Minesweeper](./templates/minesweeper)
-- [Tetris2](./templates/tetris2)
-- [MemoryGame](./templates/MemoryGame)
-- [Snake Game](./templates/snake-game)
+- [Minecraft](./templates/minecraft) - Minecraft.
+- [Tetris](./templates/tetris) - Tetris.
+- [Pac-Man](./templates/pacman) - Pac-Man.
+- [Supermario](./templates/supermario) - Supermario.
+- [Minesweeper](./templates/minesweeper) - Minesweeper.
+- [Tetris2](./templates/tetris2) - Tetris2.
+- [MemoryGame](./templates/MemoryGame) - MemoryGame.
+- [Snake Game](./templates/snake-game) - Snake Game.
 
 ### Game Servers
 
-- [Counter-Strike: Global Offensive](./templates/csgo)
-- [Holdfast: Nations At War](./templates/holdfastnaw)
-- [Mordhau](./templates/mordhau)
-- [Squad](./templates/squad)
-- [SteamCMD](./templates/steamcmd)
-- [SteamPipe](./templates/steampipe)
-- [Team Fortress 2](./templates/tf2)
+- [Counter-Strike: Global Offensive](./templates/csgo) - Counter-Strike: Global Offensive.
+- [Holdfast: Nations At War](./templates/holdfastnaw) - Holdfast: Nations At War.
+- [Mordhau](./templates/mordhau) - Mordhau.
+- [Squad](./templates/squad) - Squad.
+- [SteamCMD](./templates/steamcmd) - SteamCMD.
+- [SteamPipe](./templates/steampipe) - SteamPipe.
+- [Team Fortress 2](./templates/tf2) - Team Fortress 2.
 
-### Hosting
-
-- [Caddy](./templates/caddy)
-- [Grafana](./templates/grafana)
-- [IPFS](./templates/ipfs)
-- [Flame](./templates/flame)
+### Hosting .
+- [Caddy](./templates/caddy) - Caddy.
+- [Grafana](./templates/grafana) - Grafana.
+- [IPFS](./templates/ipfs) - IPFS.
+- [Flame](./templates/flame) - Flame.
 
 ### Media
 
-- [FreeFlix Nucleus](./templates/freeflix-nucleus)
+- [FreeFlix Nucleus](./templates/freeflix-nucleus) - FreeFlix Nucleus.
 
 ### Search Engines
 
-- [Whoogle Search](./templates/whoogle-search)
-- [Presearch](./templates/presearch)
-- [YaCy](./templates/yacy)
+- [Whoogle Search](./templates/whoogle-search) - Whoogle Search.
+- [Presearch](./templates/presearch) - Presearch.
+- [YaCy](./templates/yacy) - YaCy.
 
 ### Mining - CPU
 
-- [Chia Bladebit](./templates/chia-bladebit)
-- [Chia Bladebit Disk](./templates/chia-bladebit-disk)
-- [Chia Madmax](./templates/chia-madmax)
-- [Honeygain](./templates/honeygain)
-- [IPRoyal Pawns](./templates/iproyal-pawns)
-- [Iron Fish](./templates/iron-fish)
-- [MoneroOcean CPU with XMR payout](./templates/moneroocean)
-- [PacketStream](./templates/packetstream)
-- [pkt.cash](./templates/pkt-miner)
-- [RainbowMiner CPU](./templates/rainbowminer)
-- [Raptoreum](./templates/raptoreum-miner)
-- [Traffmonetizer](./templates/traffmonetizer)
-- [XMRig CPU](./templates/xmrig)
+- [Chia Bladebit](./templates/chia-bladebit) - Chia Bladebit.
+- [Chia Bladebit Disk](./templates/chia-bladebit-disk) - Chia Bladebit Disk.
+- [Chia Madmax](./templates/chia-madmax) - Chia Madmax.
+- [Honeygain](./templates/honeygain) - Honeygain.
+- [IPRoyal Pawns](./templates/iproyal-pawns) - IPRoyal Pawns.
+- [Iron Fish](./templates/iron-fish) - Iron Fish.
+- [MoneroOcean CPU with XMR payout](./templates/moneroocean) - MoneroOcean CPU with XMR payout.
+- [PacketStream](./templates/packetstream) - PacketStream.
+- [pkt.cash](./templates/pkt-miner) - pkt.cash.
+- [RainbowMiner CPU](./templates/rainbowminer) - RainbowMiner CPU.
+- [Raptoreum](./templates/raptoreum-miner) - Raptoreum.
+- [Traffmonetizer](./templates/traffmonetizer) - Traffmonetizer.
+- [XMRig CPU](./templates/xmrig) - XMRig CPU.
 
 ### Mining - GPU
 
-- [Bminer](./templates/bminer-c11)
-- [BzMiner](./templates/bzminer-c11)
-- [CryptoDredge](./templates/cryptodredge-c11)
-- [GMiner](./templates/gminer-c11)
-- [lolMiner](./templates/lolminer-c11)
-- [MoneroOcean GPU with XMR payout](./templates/xmrig-moneroocean-c11)
-- [Nanominer](./templates/nanominer-c11)
-- [NBMiner](./templates/nbminer-c11)
-- [OneZeroMiner](./templates/onezerominer-c11)
-- [RainbowMiner GPU](./templates/rainbowminer-c11)
-- [Rigel](./templates/rigel-c11)
-- [SRBMiner-MULTI](./templates/srbminer-multi-c11)
-- [T-Rex](./templates/t-rex-c11)
-- [WildRig Multi](./templates/wildrig-multi-c11)
-- [XMRig GPU](./templates/xmrig-c11)
+- [Bminer](./templates/bminer-c11) - Bminer.
+- [BzMiner](./templates/bzminer-c11) - BzMiner.
+- [CryptoDredge](./templates/cryptodredge-c11) - CryptoDredge.
+- [GMiner](./templates/gminer-c11) - GMiner.
+- [lolMiner](./templates/lolminer-c11) - lolMiner.
+- [MoneroOcean GPU with XMR payout](./templates/xmrig-moneroocean-c11) - MoneroOcean GPU with XMR payout.
+- [Nanominer](./templates/nanominer-c11) - Nanominer.
+- [NBMiner](./templates/nbminer-c11) - NBMiner.
+- [OneZeroMiner](./templates/onezerominer-c11) - OneZeroMiner.
+- [RainbowMiner GPU](./templates/rainbowminer-c11) - RainbowMiner GPU.
+- [Rigel](./templates/rigel-c11) - Rigel.
+- [SRBMiner-MULTI](./templates/srbminer-multi-c11) - SRBMiner-MULTI.
+- [T-Rex](./templates/t-rex-c11) - T-Rex.
+- [WildRig Multi](./templates/wildrig-multi-c11) - WildRig Multi.
+- [XMRig GPU](./templates/xmrig-c11) - XMRig GPU.
 
 ### Mining Pools
 
-- [monero-pool by jtgrassie](./templates/monero-pool)
-- [Meowcoin Pool](./templates/kawpow-pool-meowcoin)
-- [Neoxa Pool](./templates/kawpow-pool-neoxa)
-- [Ravencoin Pool](./templates/kawpow-pool-ravencoin)
+- [monero-pool by jtgrassie](./templates/monero-pool) - monero-pool by jtgrassie.
+- [Meowcoin Pool](./templates/kawpow-pool-meowcoin) - Meowcoin Pool.
+- [Neoxa Pool](./templates/kawpow-pool-neoxa) - Neoxa Pool.
+- [Ravencoin Pool](./templates/kawpow-pool-ravencoin) - Ravencoin Pool.
 
 ### Peer-to-peer File Sharing
 
-- [qBittorrent](./templates/qbittorrent)
+- [qBittorrent](./templates/qbittorrent) - qBittorrent.
 
 ### Project Management
 
-- [Jira Software](./templates/jira)
-- [Redmine](./templates/redmine)
-- [Kanboard](./templates/kanboard)
+- [Jira Software](./templates/jira) - Jira Software.
+- [Redmine](./templates/redmine) - Redmine.
+- [Kanboard](./templates/kanboard) - Kanboard.
 
 ### Social
 
-- [Discourse](./templates/discourse)
-- [TeamSpeak](./templates/teamspeak)
-- [Waku](./templates/waku)
+- [Discourse](./templates/discourse) - Discourse.
+- [TeamSpeak](./templates/teamspeak) - TeamSpeak.
+- [Waku](./templates/waku) - Waku.
 
 ### Tools
 
-- [thirdweb](./templates/thirdweb)
-- [authsteem](./templates/authsteem)
-- [Code-Server](./templates/code-server)
-- [CodiMD](./templates/CodiMD)
-- [dart-hello](./templates/dart)
-- [DEGO Stats](./templates/dego-stats)
-- [Folding@home](./templates/folding-at-home)
-- [Hashicorp Vault](./templates/hashicorp-vault)
-- [KnowYourDeFi](./templates/knowyourdefi)
-- [Matomo](./templates/matomo)
-- [microbox](./templates/microbox)
-- [Mintr](./templates/mintr)
-- [Nextcloud](./templates/nextcloud)
-- [owncloud](./templates/owncloud)
-- [PeerJS Server](./templates/peerjs-server)
-- [Periodic Table Creator](./templates/Periodic-Table-Creator)
-- [Quill editor](./templates/quill-editor)
-- [Uptime Kuma](./templates/uptime-kuma)
-- [Webtop](./templates/webtop)
-- [Zammad](./templates/zammad)
-- [Budibase](./templates/budibase)
-- [Keycloak IAM](./templates/keycloak-iam)
-- [vaultwarden](./templates/vaultwarden)
+- [thirdweb](./templates/thirdweb) - thirdweb.
+- [authsteem](./templates/authsteem) - authsteem.
+- [Code-Server](./templates/code-server) - Code-Server.
+- [CodiMD](./templates/CodiMD) - CodiMD.
+- [dart-hello](./templates/dart) - dart-hello.
+- [DEGO Stats](./templates/dego-stats) - DEGO Stats.
+- [Folding@home](./templates/folding-at-home) - Folding@home.
+- [Hashicorp Vault](./templates/hashicorp-vault) - Hashicorp Vault.
+- [KnowYourDeFi](./templates/knowyourdefi) - KnowYourDeFi.
+- [Matomo](./templates/matomo) - Matomo.
+- [microbox](./templates/microbox) - microbox.
+- [Mintr](./templates/mintr) - Mintr.
+- [Nextcloud](./templates/nextcloud) - Nextcloud.
+- [owncloud](./templates/owncloud) - owncloud.
+- [PeerJS Server](./templates/peerjs-server) - PeerJS Server.
+- [Periodic Table Creator](./templates/Periodic-Table-Creator) - Periodic Table Creator.
+- [Quill editor](./templates/quill-editor) - Quill editor.
+- [Uptime Kuma](./templates/uptime-kuma) - Uptime Kuma.
+- [Webtop](./templates/webtop) - Webtop.
+- [Zammad](./templates/zammad) - Zammad.
+- [Budibase](./templates/budibase) - Budibase.
+- [Keycloak IAM](./templates/keycloak-iam) - Keycloak IAM.
+- [vaultwarden](./templates/vaultwarden) - vaultwarden.
 
 ### Network
 
-- [SoftEther VPN](./templates/softether-vpn)
-- [Sentinel dVPN node](./templates/Sentinel-dVPN-node)
-- [Tor Proxy](./templates/tor-proxy)
+- [SoftEther VPN](./templates/softether-vpn) - SoftEther VPN.
+- [Sentinel dVPN node](./templates/Sentinel-dVPN-node) - Sentinel dVPN node.
+- [Tor Proxy](./templates/tor-proxy) - Tor Proxy.
 
 ### Databases
 
-- [redis](./templates/redis)
+- [redis](./templates/redis) - redis.
 
 ### Wallet
 
-- [MyetherWallet](./templates/MyetherWallet)
-- [tronwallet](./templates/tronwallet)
+- [MyetherWallet](./templates/MyetherWallet) - MyetherWallet.
+- [tronwallet](./templates/tronwallet) - tronwallet.
 
 ### Web Frameworks
 
-- [NextJS](./templates/nextjs)
+- [NextJS](./templates/nextjs) - NextJS.
 
 ### Archived
 

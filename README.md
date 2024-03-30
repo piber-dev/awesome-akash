@@ -10,12 +10,10 @@ Akash is a digital marketplace where users can rent computing resources to host 
 - [Social Media](#social-media)
 - [Templates](#templates)
   - [Official](#official)
-  - [AI - CPU](#ai---cpu)
-  - [AI - GPU](#ai---gpu)
+  - [AI and ML](#ai-and-ml)
   - [Blogging](#blogging)
   - [Built with Cosmos-SDK](#built-with-cosmos-sdk)
   - [Chat](#chat)
-  - [Machine Learning](#machine-learning)
   - [CI/CD, DevOps](#cicd-devops)
   - [Data Visualization](#data-visualization)
   - [Databases and Administration](#databases-and-administration)
@@ -23,20 +21,15 @@ Akash is a digital marketplace where users can rent computing resources to host 
   - [Benchmarking](#benchmarking)
   - [Blockchain](#blockchain)
   - [Business](#business)
-  - [Games](#games)
-  - [Game Servers](#game-servers)
+  - [Games and Game Servers](#games-and-game-servers)
   - [Hosting](#hosting)
   - [Media](#media)
   - [Search Engines](#search-engines)
-  - [Mining - CPU](#mining---cpu)
-  - [Mining - GPU](#mining---gpu)
-  - [Mining Pools](#mining-pools)
-  - [Peer-to-peer File Sharing](#peer-to-peer-file-sharing)
+  - [Miners and Mining Pools](#miners-and-mining-pools)
   - [Project Management](#project-management)
   - [Social](#social)
   - [Tools](#tools)
   - [Network](#network)
-  - [Databases](#databases)
   - [Wallet](#wallet)
   - [Web Frameworks](#web-frameworks)
   - [Archived](#archived)
@@ -54,11 +47,18 @@ Here you can see some resources linked related to Akash, in how to e.g. get star
 
 ## Social Media
 
-Here you can see the official and unofficial major social media channels of Akash.
+### Official
+
+Here you can see the official major social media channels of Akash.
 
 - [Discord](https://discord.com/invite/akash) - The official Discord server for technical support, technical conversation, and other conversation related to the development of the network.
 - [Twitter (X)](https://twitter.com/akashnet_) - The official Twitter (X) account for community news, milestones, and more relevant information of Akash.
 - [Telegram (Official)](https://t.me/AkashNW) - The official Telegram server where serious conversation of the development of the network is encouraged.
+
+### Unofficial
+
+Here you can see the unofficial major social media channels of Akash.
+
 - [Telegram (Akashians Price Staking)](https://t.me/akashianspricingstaking ) - An unofficial Telegram server where price discussion is encouraged.
 
 ## Templates
@@ -76,7 +76,9 @@ Note that SDL files are private by default, but some templates make sense to sha
 - [Lunie Wallet for Cosmos SDK](./templates/lunie-lite) - Lunie Wallet for Cosmos SDK.
 - [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash) - Cosmos SDK Node.
 
-### AI - CPU
+### AI and ML
+
+#### AI - CPU
 
 - [Alpaca.cpp](./templates/alpaca-cpp) - Alpaca.cpp.
 - [Auto-GPT](./templates/auto-gpt) - Auto-GPT.
@@ -91,7 +93,7 @@ Note that SDL files are private by default, but some templates make sense to sha
 - [Stable Diffusion](./templates/stable-diffusion-ui) - Stable Diffusion.
 - [Terminal GPT](./templates/tgpt) - Terminal GPT.
 
-### AI - GPU
+#### AI - GPU
 
 - [AI-Image-App](./templates/AI-Image-App) - AI-Image-App.
 - [AUTOMATIC1111](./templates/AUTOMATIC1111) - AUTOMATIC1111.
@@ -117,6 +119,16 @@ Note that SDL files are private by default, but some templates make sense to sha
 - [XLM-roBERTa](./templates/XLM-roBERTa) - XLM-roBERTa.
 - [Open GPT](./templates/open-gpt) - Open GPT.
 
+#### Machine Learning
+
+- [Ray Cluster](./templates/ray) - Ray Cluster.
+- [Jupyter Notebook](./templates/jupyter) - Jupyter Notebook.
+- [Jupyter Notebook with ezkl](./templates/tensorflow-jupyter-ezkl) - Jupyter Notebook with ezkl.
+- [Jupyter Notebook with Python Kernel](./templates/tensorflow-jupyter-mnist) - Jupyter Notebook with Python Kernel.
+- [TensorFlow Serving MNIST CNN Model](./templates/tensorflow-serving-mnist) - TensorFlow Serving MNIST CNN Model.
+- [Handwritten Digits Recognition Application](./templates/tensorflow-webapp-mnist) - Handwritten Digits Recognition Application.
+- [Doccano](./templates/doccano) - Doccano.
+
 ### Blogging
 
 - [SteemCN](./templates/steemcn) - SteemCN.
@@ -136,16 +148,6 @@ Note that SDL files are private by default, but some templates make sense to sha
 ### Chat
 
 - [Mattermost](./templates/mattermost) - Mattermost.
-
-### Machine Learning
-
-- [Ray Cluster](./templates/ray) - Ray Cluster.
-- [Jupyter Notebook](./templates/jupyter) - Jupyter Notebook.
-- [Jupyter Notebook with ezkl](./templates/tensorflow-jupyter-ezkl) - Jupyter Notebook with ezkl.
-- [Jupyter Notebook with Python Kernel](./templates/tensorflow-jupyter-mnist) - Jupyter Notebook with Python Kernel.
-- [TensorFlow Serving MNIST CNN Model](./templates/tensorflow-serving-mnist) - TensorFlow Serving MNIST CNN Model.
-- [Handwritten Digits Recognition Application](./templates/tensorflow-webapp-mnist) - Handwritten Digits Recognition Application.
-- [Doccano](./templates/doccano) - Doccano.
 
 ### CI/CD, DevOps
 
@@ -171,10 +173,10 @@ Note that SDL files are private by default, but some templates make sense to sha
 - [InfluxDB](./templates/influxdb) - InfluxDB.
 - [SurrealDB](./templates/SurrealDB) - SurrealDB.
 - [DefraDB](./templates/defradb) - DefraDB.
+- [redis](./templates/redis) - redis.
 
 ### DeFi
 
-Awesome DeFi apps you can deploy on Akash Awesome DeFi apps you can deploy on Akash.
 - [Serum DEX UI](./templates/serum) - Serum DEX UI.
 - [Uniswap](./templates/uniswap) - Uniswap.
 - [dFed](./templates/dfed) - dFed.
@@ -228,9 +230,10 @@ Awesome DeFi apps you can deploy on Akash Awesome DeFi apps you can deploy on Ak
 
 - [Odoo](./templates/odoo) - Odoo.
 
-### Games
+### Games and Game Servers
 
-- [Minecraft](./templates/minecraft) - Minecraft.
+#### Games
+
 - [Tetris](./templates/tetris) - Tetris.
 - [Pac-Man](./templates/pacman) - Pac-Man.
 - [Supermario](./templates/supermario) - Supermario.
@@ -239,21 +242,24 @@ Awesome DeFi apps you can deploy on Akash Awesome DeFi apps you can deploy on Ak
 - [MemoryGame](./templates/MemoryGame) - MemoryGame.
 - [Snake Game](./templates/snake-game) - Snake Game.
 
-### Game Servers
+#### Game Servers
 
 - [Counter-Strike: Global Offensive](./templates/csgo) - Counter-Strike: Global Offensive.
 - [Holdfast: Nations At War](./templates/holdfastnaw) - Holdfast: Nations At War.
+- [Minecraft](./templates/minecraft) - Minecraft.
 - [Mordhau](./templates/mordhau) - Mordhau.
 - [Squad](./templates/squad) - Squad.
 - [SteamCMD](./templates/steamcmd) - SteamCMD.
 - [SteamPipe](./templates/steampipe) - SteamPipe.
 - [Team Fortress 2](./templates/tf2) - Team Fortress 2.
 
-### Hosting .
+### Hosting
+
 - [Caddy](./templates/caddy) - Caddy.
 - [Grafana](./templates/grafana) - Grafana.
 - [IPFS](./templates/ipfs) - IPFS.
 - [Flame](./templates/flame) - Flame.
+- [qBittorrent](./templates/qbittorrent) - qBittorrent.
 
 ### Media
 
@@ -265,7 +271,9 @@ Awesome DeFi apps you can deploy on Akash Awesome DeFi apps you can deploy on Ak
 - [Presearch](./templates/presearch) - Presearch.
 - [YaCy](./templates/yacy) - YaCy.
 
-### Mining - CPU
+### Miners and Mining Pools
+
+#### Miners - CPU
 
 - [Chia Bladebit](./templates/chia-bladebit) - Chia Bladebit.
 - [Chia Bladebit Disk](./templates/chia-bladebit-disk) - Chia Bladebit Disk.
@@ -281,7 +289,7 @@ Awesome DeFi apps you can deploy on Akash Awesome DeFi apps you can deploy on Ak
 - [Traffmonetizer](./templates/traffmonetizer) - Traffmonetizer.
 - [XMRig CPU](./templates/xmrig) - XMRig CPU.
 
-### Mining - GPU
+#### Miners - GPU
 
 - [Bminer](./templates/bminer-c11) - Bminer.
 - [BzMiner](./templates/bzminer-c11) - BzMiner.
@@ -299,16 +307,12 @@ Awesome DeFi apps you can deploy on Akash Awesome DeFi apps you can deploy on Ak
 - [WildRig Multi](./templates/wildrig-multi-c11) - WildRig Multi.
 - [XMRig GPU](./templates/xmrig-c11) - XMRig GPU.
 
-### Mining Pools
+##### Mining Pools
 
 - [monero-pool by jtgrassie](./templates/monero-pool) - monero-pool by jtgrassie.
 - [Meowcoin Pool](./templates/kawpow-pool-meowcoin) - Meowcoin Pool.
 - [Neoxa Pool](./templates/kawpow-pool-neoxa) - Neoxa Pool.
 - [Ravencoin Pool](./templates/kawpow-pool-ravencoin) - Ravencoin Pool.
-
-### Peer-to-peer File Sharing
-
-- [qBittorrent](./templates/qbittorrent) - qBittorrent.
 
 ### Project Management
 
@@ -353,10 +357,6 @@ Awesome DeFi apps you can deploy on Akash Awesome DeFi apps you can deploy on Ak
 - [SoftEther VPN](./templates/softether-vpn) - SoftEther VPN.
 - [Sentinel dVPN node](./templates/Sentinel-dVPN-node) - Sentinel dVPN node.
 - [Tor Proxy](./templates/tor-proxy) - Tor Proxy.
-
-### Databases
-
-- [redis](./templates/redis) - redis.
 
 ### Wallet
 

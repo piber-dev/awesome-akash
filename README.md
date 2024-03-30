@@ -43,12 +43,14 @@ Here you can see some resources linked related to Akash, in how to e.g. get star
 
 - [Cloudmos Deploy](https://deploy.cloudmos.io) - Deploy easily to Akash through the Cloudmos web application.
 - [Akash Documentation](https://akash.network/docs/) - Dig deeper in the network in the official documentation.
+- [Akash Zealy Program](https://zealy.io/cw/akashnetwork) - Learn how to use Akash and earn your first AKT tokens.
 
 ### Paid Opportunities
 
 - [Development Contributions](https://akash.network/development/welcome/) - Learn how to get involved in the development of the network through different community groups.
 - [Development Bounties](https://akash.network/development/bounties/) - See what incentivized bounties are available right now.
 - [Funding Programs](https://akash.network/development/funding-program/) - Learn about the current ways on requesting funding for a project.
+- [Akash Zealy Program](https://zealy.io/cw/akashnetwork) - Learn how to use Akash and earn your first AKT tokens.
 
 ## Social Media
 

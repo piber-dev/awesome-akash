@@ -14,6 +14,7 @@ Akash is a digital marketplace where users can rent computing resources to host 
 - [Social Media](#social-media)
   - [Official](#official)
   - [Unofficial](#unofficial)
+- [Guides](#guides)
 - [Templates](#templates)
   - [Template Categories](#template-categories)
 
@@ -68,6 +69,12 @@ Here you can see the official major social media channels of Akash.
 Here you can see the unofficial major social media channels of Akash.
 
 - [Telegram (Akashians Price Staking)](https://t.me/akashianspricingstaking ) - An unofficial Telegram server where price discussion is encouraged.
+
+## Guides
+
+Here you can find guides on how to use Akash in different ways.
+
+- [Build an Akash Network Cloud Provider](https://www.youtube.com/watch?v=DFPlvaiyquY&list=PLJNcg93ItlxS0aQCypcVAvdaB2QXi5U4n&pp=iAQB) - A video series on how to set up a provider on Akash by Europlots.
 
 ## Templates
 

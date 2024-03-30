@@ -2,21 +2,50 @@
 
 This is an awesome source of resources, ready-to-deploy templates, and other information that can help you get started on Akash. To add to this list or to suggest modifications, please look at our [contribution guide](./contributing.md).
 
-Akash is a digital marketplace where users can rent computing resources to host services. It runs on a decentralized P2P network and functions using the Akash token and is developed and run by the community.
+Akash is a digital marketplace where users can rent computing resources to host services. It runs on a distributed P2P network, functions using the Akash token, and is both developed and run by the community.
 
 ## Contents
 
 - [Akash Network](#akash-network)
+  - [General Information](#general-information)
+  - [Provider Resources](#provider-resources)
+  - [Developer Resources](#developer-resources)
+  - [Paid Opportunities](#paid-opportunities)
 - [Social Media](#social-media)
+  - [Official](#official)
+  - [Unofficial](#unofficial)
 - [Templates](#templates)
+  - [Template Categories](#template-categories)
 
 ## Akash Network
 
 Here you can see some resources linked related to Akash, in how to e.g. get started reading about it, or how to get involved as a developer.
 
+### General Information
+
 - [Akash Network](https://akash.network) - Learn more of the Akash Network on the official website.
 - [AKT Token](https://akash.network/token/) - Learn more of the AKT token and its tokenomics that keeps the network alive.
 - [Akash Documentation](https://akash.network/docs/) - Dig deeper in the network in the official documentation.
+- [Akash Stats](http://stats.akash.network) - See network statistics from the Akash Network.
+- [Akash White Paper](https://ipfs.io/ipfs/QmVwsi5kTrg7UcUEGi5UfdheVLBWoHjze2pHy4tLqYvLYv) - Read through the white paper with the original idea of the network's future.
+- [GitHub Discussions](https://github.com/orgs/akash-network/discussions) - The official discussions page where formal discussion in the form of e.g. proposals occurs.
+
+### Provider Resources
+
+- [Praetorapp](https://praetorapp.com) - Set up a provider easy with the help of Praetorapp.
+- [Praetorapp Provider Explorer](https://akash.praetorapp.com/provider-status?chainid=akashnet-2) - Find information on both your and others providers on Praetorapp.
+- [Cloudmos Provider Explorer](https://deploy.cloudmos.io/providers) - Find information on both your and others providers on Cloudmos.
+- [Praetorapp Provider Earning Calculator](https://akash.praetorapp.com/calculator) - Calculate how much you might earn as a provider on Akash.
+- [Akash Calculator](https://akashcalculator.com) - Figure out if/when your provider could be profitable.
+- [Akash Documentation](https://akash.network/docs/) - Dig deeper in the network in the official documentation.
+
+### Developer Resources
+
+- [Cloudmos Deploy](https://deploy.cloudmos.io) - Deploy easily to Akash through the Cloudmos web application.
+- [Akash Documentation](https://akash.network/docs/) - Dig deeper in the network in the official documentation.
+
+### Paid Opportunities
+
 - [Development Contributions](https://akash.network/development/welcome/) - Learn how to get involved in the development of the network through different community groups.
 - [Development Bounties](https://akash.network/development/bounties/) - See what incentivized bounties are available right now.
 - [Funding Programs](https://akash.network/development/funding-program/) - Learn about the current ways on requesting funding for a project.
@@ -30,6 +59,7 @@ Here you can see the official major social media channels of Akash.
 - [Discord](https://discord.com/invite/akash) - The official Discord server for technical support, technical conversation, and other conversation related to the development of the network.
 - [Twitter (X)](https://twitter.com/akashnet_) - The official Twitter (X) account for community news, milestones, and more relevant information of Akash.
 - [Telegram (Official)](https://t.me/AkashNW) - The official Telegram server where serious conversation of the development of the network is encouraged.
+- [GitHub Organization](https://github.com/akash-network) - The official GitHub organization where development occurs with the help of open-source contributors.
 
 ### Unofficial
 

@@ -154,12 +154,12 @@ Note that SDL files are private by default, but some templates make sense to sha
 - [Jenkins](./templates/jenkins) - Jenkins.
 - [Bitbucket](./templates/bitbucket) - Bitbucket.
 - [Azure Devops Agent](./templates/azure-devops-agent) - Azure Devops Agent.
-- [Github Runner](./templates/ghrunner) - Github Runner.
+- [GitHub Runner](./templates/ghrunner) - GitHub Runner.
 
 ### Data Visualization
 
--  [Redash Data Charts for Akash Analytics](./templates/Redash) -  Redash Data Charts for Akash Analytics.
--  [UFO Sightings](./templates/ufo-data-vis) -  UFO Sightings.
+- [Redash Data Charts for Akash Analytics](./templates/Redash) - Redash Data Charts for Akash Analytics.
+- [UFO Sightings](./templates/ufo-data-vis) - UFO Sightings.
 
 ### Databases and Administration
 

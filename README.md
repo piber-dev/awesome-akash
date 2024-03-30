@@ -9,30 +9,6 @@ Akash is a digital marketplace where users can rent computing resources to host 
 - [Akash Network](#akash-network)
 - [Social Media](#social-media)
 - [Templates](#templates)
-  - [Official](#official)
-  - [AI and ML](#ai-and-ml)
-  - [Blogging](#blogging)
-  - [Built with Cosmos-SDK](#built-with-cosmos-sdk)
-  - [Chat](#chat)
-  - [CI/CD, DevOps](#cicd-devops)
-  - [Data Visualization](#data-visualization)
-  - [Databases and Administration](#databases-and-administration)
-  - [DeFi](#defi)
-  - [Benchmarking](#benchmarking)
-  - [Blockchain](#blockchain)
-  - [Business](#business)
-  - [Games and Game Servers](#games-and-game-servers)
-  - [Hosting](#hosting)
-  - [Media](#media)
-  - [Search Engines](#search-engines)
-  - [Miners and Mining Pools](#miners-and-mining-pools)
-  - [Project Management](#project-management)
-  - [Social](#social)
-  - [Tools](#tools)
-  - [Network](#network)
-  - [Wallet](#wallet)
-  - [Web Frameworks](#web-frameworks)
-  - [Archived](#archived)
 
 ## Akash Network
 
@@ -70,6 +46,33 @@ For information on how to deploy these templates, see [this](https://akash.netwo
 For information on how to share your own SDL, see [this](./contributing.md) page on how to add your SDL to this list.
 
 Note that SDL files are private by default, but some templates make sense to share for others users to use. In this case, some people choose to share their templates here.
+
+### Template Categories
+
+- [Official](#official)
+- [AI and ML](#ai-and-ml)
+- [Blogging](#blogging)
+- [Built with Cosmos-SDK](#built-with-cosmos-sdk)
+- [Chat](#chat)
+- [CI/CD, DevOps](#cicd-devops)
+- [Data Visualization](#data-visualization)
+- [Databases and Administration](#databases-and-administration)
+- [DeFi](#defi)
+- [Benchmarking](#benchmarking)
+- [Blockchain](#blockchain)
+- [Business](#business)
+- [Games and Game Servers](#games-and-game-servers)
+- [Hosting](#hosting)
+- [Media](#media)
+- [Search Engines](#search-engines)
+- [Miners and Mining Pools](#miners-and-mining-pools)
+- [Project Management](#project-management)
+- [Social](#social)
+- [Tools](#tools)
+- [Network](#network)
+- [Wallet](#wallet)
+- [Web Frameworks](#web-frameworks)
+- [Archived](#archived)
 
 ### Official
 

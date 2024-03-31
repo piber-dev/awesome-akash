@@ -91,31 +91,21 @@ Note that SDL files are private by default, but some templates make sense to sha
 - [Official](#official)
 - [AI and ML](#ai-and-ml)
 - [Blogging](#blogging)
-- [Built with Cosmos-SDK](#built-with-cosmos-sdk)
-- [Chat](#chat)
 - [CI/CD, DevOps](#cicd-devops)
 - [Data Visualization](#data-visualization)
 - [Databases and Administration](#databases-and-administration)
-- [DeFi](#defi)
 - [Benchmarking](#benchmarking)
 - [Blockchain](#blockchain)
-- [Business](#business)
 - [Games and Game Servers](#games-and-game-servers)
-- [Hosting](#hosting)
-- [Media](#media)
 - [Search Engines](#search-engines)
 - [Miners and Mining Pools](#miners-and-mining-pools)
-- [Project Management](#project-management)
 - [Social](#social)
 - [Tools](#tools)
 - [Network](#network)
-- [Wallet](#wallet)
-- [Web Frameworks](#web-frameworks)
 - [Archived](#archived)
 
 ### Official
 
-- [Lunie Wallet for Cosmos SDK](./templates/lunie-lite) - Lunie Wallet for Cosmos SDK.
 - [Cosmos SDK Node](https://github.com/ovrclk/akash-on-akash) - Cosmos SDK Node.
 
 ### AI and ML
@@ -127,7 +117,6 @@ Note that SDL files are private by default, but some templates make sense to sha
 - [BabyAGI](./templates/babyagi) - BabyAGI.
 - [BabyAGI-UI](./templates/babyagi-ui) - BabyAGI-UI.
 - [ChatChat](./templates/chatchat) - ChatChat.
-- [ChatGPT Self-Hosted Chat](./templates/ai-chat-app) - ChatGPT Self-Hosted Chat.
 - [Daila](./templates/daila) - Daila.
 - [Flowise](./templates/flowise) - Flowise.
 - [GPT4ALL](./templates/gpt4all) - GPT4ALL.
@@ -166,168 +155,51 @@ Note that SDL files are private by default, but some templates make sense to sha
 - [Ray Cluster](./templates/ray) - Ray Cluster.
 - [Jupyter Notebook](./templates/jupyter) - Jupyter Notebook.
 - [Jupyter Notebook with ezkl](./templates/tensorflow-jupyter-ezkl) - Jupyter Notebook with ezkl.
-- [Jupyter Notebook with Python Kernel](./templates/tensorflow-jupyter-mnist) - Jupyter Notebook with Python Kernel.
-- [TensorFlow Serving MNIST CNN Model](./templates/tensorflow-serving-mnist) - TensorFlow Serving MNIST CNN Model.
-- [Handwritten Digits Recognition Application](./templates/tensorflow-webapp-mnist) - Handwritten Digits Recognition Application.
-- [Doccano](./templates/doccano) - Doccano.
 
 ### Blogging
 
 - [SteemCN](./templates/steemcn) - SteemCN.
-- [Ghost](./templates/ghost) - Ghost.
-- [Grav](./templates/Grav) - Grav.
 - [Wordpress](./templates/wordpress) - Wordpress.
-- [Confluence](./templates/confluence) - Confluence.
-- [Drupal](./templates/drupal) - Drupal.
-- [Wiki.js](./templates/wikijs) - Wiki.js.
 - [Nitropage](./templates/nitropage) - Nitropage.
-
-### Built with Cosmos-SDK
-
-- [Dharani](./templates/Dharani) - Dharani.
-- [Big Dipper](./templates/big-dipper) - Big Dipper.
-
-### Chat
-
-- [Mattermost](./templates/mattermost) - Mattermost.
 
 ### CI/CD, DevOps
 
-- [Jenkins](./templates/jenkins) - Jenkins.
-- [Bitbucket](./templates/bitbucket) - Bitbucket.
-- [Azure Devops Agent](./templates/azure-devops-agent) - Azure Devops Agent.
 - [GitHub Runner](./templates/ghrunner) - GitHub Runner.
 
 ### Data Visualization
 
 - [Redash Data Charts for Akash Analytics](./templates/Redash) - Redash Data Charts for Akash Analytics.
-- [UFO Sightings](./templates/ufo-data-vis) - UFO Sightings.
 
 ### Databases and Administration
 
-- [json-server](./templates/json-server) - json-server.
-- [pgAdmin](./templates/pgadmin4) - pgAdmin.
-- [mongoDB](./templates/mongoDB) - mongoDB.
-- [postgresSQL](./templates/postgres) - postgresSQL.
-- [adminer](./templates/adminer) - adminer.
 - [MySQL](./templates/MySQL) - MySQL.
-- [CouchDB](./templates/couchdb) - CouchDB.
-- [InfluxDB](./templates/influxdb) - InfluxDB.
-- [SurrealDB](./templates/SurrealDB) - SurrealDB.
 - [DefraDB](./templates/defradb) - DefraDB.
-- [redis](./templates/redis) - redis.
-
-### DeFi
-
-- [Serum DEX UI](./templates/serum) - Serum DEX UI.
-- [Uniswap](./templates/uniswap) - Uniswap.
-- [dFed](./templates/dfed) - dFed.
-- [Pancake Swap](./templates/pancake-swap) - Pancake Swap.
-- [Augur](./templates/augur) - Augur.
-- [Bancor](./templates/bancor) - Bancor.
-- [Balancer](./templates/balancer) - Balancer.
-- [Luaswap](./templates/luaswap) - Luaswap.
-- [SushiSwap](./templates/sushiswap) - SushiSwap.
-- [Uma Protocol](./templates/uma-protocol) - Uma Protocol.
-- [Yearn.finance](./templates/Yearn.finance) - Yearn.finance.
-- [ThorChain BEPSwap](./templates/Thorchain-BEPSwap) - ThorChain BEPSwap.
-- [Curve](./templates/curve) - Curve.
-- [Synthetix.Exchange](./templates/synthetix.exchange) - Synthetix.Exchange.
-- [Ren Protocol](./templates/renprotocol) - Ren Protocol.
-- [yfii](./templates/yfii) - yfii.
-- [Sifchain DEX](./templates/sifchain-ui) - Sifchain DEX.
-- [Osmosis DEX](./templates/osmosis-fe) - Osmosis DEX.
-
-### Benchmarking
-
-- [Fast.com by Netflix](./templates/fast) - Fast.com by Netflix.
-- [Flexible IO Tester](./templates/fio) - Flexible IO Tester.
-- [Geekbench 5](./templates/geekbench) - Geekbench 5.
-- [LibreSpeed](./templates/librespeed) - LibreSpeed.
-- [MonkeyTest](./templates/monkeytest) - MonkeyTest.
-- [OpenSpeedTest](./templates/openspeedtest) - OpenSpeedTest.
-- [Phoronix](./templates/phoronix) - Phoronix.
-- [Serverbench](./templates/serverbench) - Serverbench.
-- [Speedtest by Ookla](./templates/speedtest-cli) - Speedtest by Ookla.
-- [Speedtest Tracker](./templates/speedtest-tracker) - Speedtest Tracker.
 
 ### Blockchain
 
-- [Bitcoin](./templates/bitcoin) - Bitcoin.
-- [Prysm Beacon](./templates/prysm-beacon) - Prysm Beacon.
-- [Substrate Node](./templates/substrate-node) - Substrate Node.
-- [Near Node](./templates/near) - Near Node.
-- [Vidulum](./templates/vidulum) - Vidulum.
-- [Ethereum 2.0](./templates/Ethereum_2.0) - Ethereum 2.0.
 - [POKT Network](./templates/pokt-network) - POKT Network.
 - [Polkadot](./templates/polkadot) - Polkadot.
-- [Kadena](./templates/Kadena) - Kadena.
-- [Bitcoin Cash Node](./templates/bitcoincashnode) - Bitcoin Cash Node.
-- [Handshake](./templates/handshake) - Handshake.
-- [Fuse Network Node](./templates/fuse-network-node) - Fuse Network Node.
 - [Injective](./templates/injective) - Injective.
 - [Starknet Node by Juno](./templates/juno) - Starknet Node by Juno.
-
-### Business
-
-- [Odoo](./templates/odoo) - Odoo.
 
 ### Games and Game Servers
 
 #### Games
 
-- [Tetris](./templates/tetris) - Tetris.
-- [Pac-Man](./templates/pacman) - Pac-Man.
-- [Supermario](./templates/supermario) - Supermario.
-- [Minesweeper](./templates/minesweeper) - Minesweeper.
-- [Tetris2](./templates/tetris2) - Tetris2.
-- [MemoryGame](./templates/MemoryGame) - MemoryGame.
-- [Snake Game](./templates/snake-game) - Snake Game.
-
 #### Game Servers
 
-- [Counter-Strike: Global Offensive](./templates/csgo) - Counter-Strike: Global Offensive.
-- [Holdfast: Nations At War](./templates/holdfastnaw) - Holdfast: Nations At War.
 - [Minecraft](./templates/minecraft) - Minecraft.
-- [Mordhau](./templates/mordhau) - Mordhau.
-- [Squad](./templates/squad) - Squad.
-- [SteamCMD](./templates/steamcmd) - SteamCMD.
-- [SteamPipe](./templates/steampipe) - SteamPipe.
-- [Team Fortress 2](./templates/tf2) - Team Fortress 2.
-
-### Hosting
-
-- [Caddy](./templates/caddy) - Caddy.
-- [Grafana](./templates/grafana) - Grafana.
-- [IPFS](./templates/ipfs) - IPFS.
-- [Flame](./templates/flame) - Flame.
-- [qBittorrent](./templates/qbittorrent) - qBittorrent.
-
-### Media
-
-- [FreeFlix Nucleus](./templates/freeflix-nucleus) - FreeFlix Nucleus.
 
 ### Search Engines
 
-- [Whoogle Search](./templates/whoogle-search) - Whoogle Search.
 - [Presearch](./templates/presearch) - Presearch.
-- [YaCy](./templates/yacy) - YaCy.
 
 ### Miners and Mining Pools
 
 #### Miners - CPU
 
-- [Chia Bladebit](./templates/chia-bladebit) - Chia Bladebit.
-- [Chia Bladebit Disk](./templates/chia-bladebit-disk) - Chia Bladebit Disk.
-- [Chia Madmax](./templates/chia-madmax) - Chia Madmax.
 - [Honeygain](./templates/honeygain) - Honeygain.
-- [IPRoyal Pawns](./templates/iproyal-pawns) - IPRoyal Pawns.
-- [Iron Fish](./templates/iron-fish) - Iron Fish.
-- [MoneroOcean CPU with XMR payout](./templates/moneroocean) - MoneroOcean CPU with XMR payout.
-- [PacketStream](./templates/packetstream) - PacketStream.
-- [pkt.cash](./templates/pkt-miner) - pkt.cash.
 - [RainbowMiner CPU](./templates/rainbowminer) - RainbowMiner CPU.
-- [Raptoreum](./templates/raptoreum-miner) - Raptoreum.
 - [Traffmonetizer](./templates/traffmonetizer) - Traffmonetizer.
 - [XMRig CPU](./templates/xmrig) - XMRig CPU.
 
@@ -351,63 +223,20 @@ Note that SDL files are private by default, but some templates make sense to sha
 
 ##### Mining Pools
 
-- [monero-pool by jtgrassie](./templates/monero-pool) - monero-pool by jtgrassie.
-- [Meowcoin Pool](./templates/kawpow-pool-meowcoin) - Meowcoin Pool.
-- [Neoxa Pool](./templates/kawpow-pool-neoxa) - Neoxa Pool.
-- [Ravencoin Pool](./templates/kawpow-pool-ravencoin) - Ravencoin Pool.
-
-### Project Management
-
-- [Jira Software](./templates/jira) - Jira Software.
-- [Redmine](./templates/redmine) - Redmine.
-- [Kanboard](./templates/kanboard) - Kanboard.
-
 ### Social
 
-- [Discourse](./templates/discourse) - Discourse.
-- [TeamSpeak](./templates/teamspeak) - TeamSpeak.
 - [Waku](./templates/waku) - Waku.
 
 ### Tools
 
-- [thirdweb](./templates/thirdweb) - thirdweb.
-- [authsteem](./templates/authsteem) - authsteem.
-- [Code-Server](./templates/code-server) - Code-Server.
-- [CodiMD](./templates/CodiMD) - CodiMD.
-- [dart-hello](./templates/dart) - dart-hello.
-- [DEGO Stats](./templates/dego-stats) - DEGO Stats.
-- [Folding@home](./templates/folding-at-home) - Folding@home.
-- [Hashicorp Vault](./templates/hashicorp-vault) - Hashicorp Vault.
-- [KnowYourDeFi](./templates/knowyourdefi) - KnowYourDeFi.
-- [Matomo](./templates/matomo) - Matomo.
-- [microbox](./templates/microbox) - microbox.
 - [Mintr](./templates/mintr) - Mintr.
-- [Nextcloud](./templates/nextcloud) - Nextcloud.
-- [owncloud](./templates/owncloud) - owncloud.
-- [PeerJS Server](./templates/peerjs-server) - PeerJS Server.
-- [Periodic Table Creator](./templates/Periodic-Table-Creator) - Periodic Table Creator.
-- [Quill editor](./templates/quill-editor) - Quill editor.
 - [Uptime Kuma](./templates/uptime-kuma) - Uptime Kuma.
 - [Webtop](./templates/webtop) - Webtop.
-- [Zammad](./templates/zammad) - Zammad.
-- [Budibase](./templates/budibase) - Budibase.
-- [Keycloak IAM](./templates/keycloak-iam) - Keycloak IAM.
-- [vaultwarden](./templates/vaultwarden) - vaultwarden.
 
 ### Network
 
-- [SoftEther VPN](./templates/softether-vpn) - SoftEther VPN.
 - [Sentinel dVPN node](./templates/Sentinel-dVPN-node) - Sentinel dVPN node.
 - [Tor Proxy](./templates/tor-proxy) - Tor Proxy.
-
-### Wallet
-
-- [MyetherWallet](./templates/MyetherWallet) - MyetherWallet.
-- [tronwallet](./templates/tronwallet) - tronwallet.
-
-### Web Frameworks
-
-- [NextJS](./templates/nextjs) - NextJS.
 
 ### Archived
 

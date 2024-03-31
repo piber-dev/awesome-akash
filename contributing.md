@@ -10,3 +10,8 @@ Requirements for adding a template:
 
 - Typically an entry can be added below another one in the same category as a new line with this content: `- [Template Name](https://github.com/username/repository/deploy.yml) - Description of the template.` when pointing to your own repository or `- [Template Name](./templates/template_name/deploy.yml) - Description of the template.` when having added the template to the templates folder.
 - Make sure that your spelling and grammar for the description is correct, that the casing is as shown in the other list items, and that the description ends with a dot.
+- When adding a template with the folder hosted within this repository, please make sure to place this folder in the `templates` folder. This is also true when unarchiving repositories.
+
+## Other contributions
+
+Any suggestions for contributions that help add, clean up, or update information are welcome. These include changing/removing/adding categories, updating names/descriptions, and more.
